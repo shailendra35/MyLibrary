@@ -20,7 +20,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <ul class="navbar-nav custom-nav">
-                    <li class="nav-item custom-nav-item"><a href="index.php" class="nav-link">Home</a></li>
+                    <li class="nav-item custom-nav-item pe-5"><a href="index.php" class="nav-link">Home</a></li>
                     <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Browse</a></li>
                     <li class="nav-item custom-nav-item"><a href="#" class="nav-link">About-Us</a></li>
                     <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Feedback</a></li>
